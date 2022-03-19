@@ -12,8 +12,11 @@ Nylon hex nuts = #10-32 (X2)
 ![](./Photos/IMG_20220319_114509.jpg)
 ![](./Photos/IMG_20220319_145630.jpg)
 
-Notes: 
+Notes:  
+-The screw holes in the models for the body pieces have a 0.3mm membrane across them. I find this makes the holes cleaner when printing with or without support. This membrane is thin  enough to equate to one layer of material on my printer and I just cut the hole out with an exacto knife. The model can easily be updated to remove this membrane if needed.
+
 -This device could be adapted to any size spring.  
+
 -Metal screws and nuts could be used, but the one that holds the spring in place would be live with whatever voltage is passing through the device.
 
 Assembly:
@@ -31,3 +34,6 @@ Place the other body piece on top and secure the screws into the hex nuts.
 
 ![](./Photos/IMG_20220319_151250.jpg)
 
+Usage example:
+
+![](./Photos/IMG_20220319_165100.jpg)
